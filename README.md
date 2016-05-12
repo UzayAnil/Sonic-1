@@ -1,5 +1,5 @@
 # Sonic
-sonic the hedgehog repl game. 
+Sonic the Hedgehog repl game. 
 
   
   
